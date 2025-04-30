@@ -1,5 +1,13 @@
 # 💫 About Me:
-I am currently a Studying at Lovely Professional University<br>Pursuing Bachelors in Computer Science and Engineering<br>
+Hi there! I'm a second-year B.Tech Computer Science student specializing in Data Science, with a strong passion for Android app development using Java. I love building mobile applications that are practical, efficient, and user-friendly.
+
+📱 My main focus is on Android app development in Java, where I enjoy creating intuitive apps that solve real-world problems.
+🔍 Alongside that, I’m expanding my knowledge in data science, exploring Python, machine learning, and data visualization.
+💡 I enjoy working on projects that combine software development with intelligent data-driven features.
+🚀 I’m always eager to learn new technologies and contribute to open-source or collaborative projects.
+🎯 My goal is to become a versatile developer who can build powerful apps backed by smart, data-centric logic.
+
+Feel free to explore my repositories and connect if you’re interested in collaboration!<br>
 
 
 ## 🌐 Socials:
