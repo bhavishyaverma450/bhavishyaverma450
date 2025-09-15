@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! I'm a B.Tech Computer Science second-year student specializing in Data Science, with a strong passion for Android app development using Java. I love building mobile applications that are practical, efficient, and user-friendly.<br>
+Hi there! I'm a B.Tech Computer Science second-year student specializing in Data Science, with a strong passion for App Development. I love building mobile applications that are practical, efficient, and user-friendly.<br>
 
 📱 My main focus is on Android app development in Java, where I enjoy creating intuitive apps that solve real-world problems.<br>
 🔍 Alongside that, I’m expanding my knowledge in data science, exploring Python, machine learning, and data visualization.<br>
